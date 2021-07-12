@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <SrFactionWar.label>Asalto de Faccion</SrFactionWar.label>
-    <SrFactionWarShellingSiteGenerate.label>Bombardeo de Faccion</SrFactionWarShellingSiteGenerate.label>
-    <SrFactionWarContentionSiteGenerate.label>Contienda de Faccion</SrFactionWarContentionSiteGenerate.label>
-    <SrFactionWarTempCampSiteGenerate.label>Defensa de Faccion</SrFactionWarTempCampSiteGenerate.label>
+    <SrFactionWar.label>Asalto de Facciones</SrFactionWar.label>
+    <SrFactionWarShellingSiteGenerate.label>Bombardeo de Facciones</SrFactionWarShellingSiteGenerate.label>
+    <SrFactionWarContentionSiteGenerate.label>Contienda de Facciones</SrFactionWarContentionSiteGenerate.label>
+    <SrFactionWarTempCampSiteGenerate.label>Defensa de Facciones</SrFactionWarTempCampSiteGenerate.label>
 </LanguageData>
